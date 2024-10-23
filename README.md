@@ -45,8 +45,11 @@ CompTIA Security+: A foundational certification demonstrating expertise in core 
 I am committed to giving back to the community and have had the privilege of volunteering with the Ohio Cyber Reserve, a state-run initiative focused on improving local cybersecurity resilience. Through this work, I have:
 
 -Assisted in cybersecurity assessments and remediation efforts for small businesses and local governments.
+
 -Participated in cyber defense exercises and threat simulations, offering real-time incident response and remediation support.
+
 -Collaborated with fellow cybersecurity professionals to enhance the digital security posture of Ohio’s critical infrastructure and local organizations.
+
 -This volunteer experience has allowed me to refine my skills, contribute to a meaningful cause, and actively protect the community from emerging cyber threats.
 
 🤝 Let’s Collaborate:

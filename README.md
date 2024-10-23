@@ -11,9 +11,12 @@ Throughout my career, I’ve developed a deep understanding of the cybersecurity
 💼 Experience and Expertise:
 
 Cloud Security: Expertise in deploying and securing cloud environments using AWS services like IAM, EC2, S3, and GuardDuty.
+
 Cybersecurity Threat Response: Extensive involvement in threat detection, detection engineering, incident response, and remediation in enterprise SOC environments.
-Software Development: Proficient in Python scripting, SOAR automations, and developing tools that enhance security operations.
-Red Team/Penetration Testing: Hands-on experience in penetration testing and red teaming operations as a commissioned officer in the Air Force National Guard (Air Guard).
+
+Software Development: Proficient in Python scripting, SOAR automation, and developing tools that enhance security operations.
+
+Red Team/Penetration Testing: Hands-on experience in penetration testing and red teaming operations as a commissioned Air Force National Guard (Air Guard) officer.
 
 🚀 Projects and Contributions:
 
@@ -28,19 +31,23 @@ Developed statistical models to provide predictive analytics for betting odds ba
 I am continually advancing my knowledge and expertise through various certifications in cybersecurity. Here are my current active certifications:
 
 GIAC Security Essentials (GSEC): Mastery of essential cybersecurity skills, including network security, incident response, and cloud security.
+
 GIAC Certified Incident Handler (GCIH): Proficient in detecting, responding to, and recovering from security incidents, with a focus on attack detection and incident response strategies.
+
 GIAC Certified Intrusion Analyst (GCIA): Specializes in network intrusion detection and analysis, utilizing tools like Snort and Suricata to safeguard enterprise environments.
+
 GIAC Defensible Security Architecture (GDSA): Knowledgeable in designing and implementing defensible security architectures, applying best practices to protect network infrastructures.
+
 CompTIA Security+: A foundational certification demonstrating expertise in core security principles, risk management, and cryptography.
 
 🌟 Volunteer Work:
 
 I am committed to giving back to the community and have had the privilege of volunteering with the Ohio Cyber Reserve, a state-run initiative focused on improving local cybersecurity resilience. Through this work, I have:
 
-Assisted in cybersecurity assessments and remediation efforts for small businesses and local governments.
-Participated in cyber defense exercises and threat simulations, offering real-time incident response and remediation support.
-Collaborated with fellow cybersecurity professionals to enhance the digital security posture of Ohio’s critical infrastructure and local organizations.
-This volunteer experience has allowed me to refine my skills, contribute to a meaningful cause, and actively protect the community from emerging cyber threats.
+-Assisted in cybersecurity assessments and remediation efforts for small businesses and local governments.
+-Participated in cyber defense exercises and threat simulations, offering real-time incident response and remediation support.
+-Collaborated with fellow cybersecurity professionals to enhance the digital security posture of Ohio’s critical infrastructure and local organizations.
+-This volunteer experience has allowed me to refine my skills, contribute to a meaningful cause, and actively protect the community from emerging cyber threats.
 
 🤝 Let’s Collaborate:
 

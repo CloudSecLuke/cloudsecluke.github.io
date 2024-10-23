@@ -20,10 +20,12 @@ Red Team/Penetration Testing: Hands-on experience in penetration testing and red
 
 🚀 Projects and Contributions:
 
-OpenCTI Deployment
+OpenCTI Deployment:
+
 I deployed OpenCTI via Docker on AWS using Terraform. This project showcases my ability to deploy threat intelligence platforms in cloud environments, with a focus on automation to streamline deployment and scalability.
 
-Sports Analytics Modeling
+Sports Analytics Modeling:
+
 Developed statistical models to provide predictive analytics for betting odds based on historical trends, weather conditions, and other factors. I primarily use Python and Jupyter notebooks for this work.
 
 🎓 Active Certifications:

@@ -31,6 +31,9 @@ I deployed OpenCTI via Docker on AWS using Terraform. This project showcases my 
 ### **Sports Analytics Modeling**
 Developed statistical models to provide predictive analytics for betting odds based on historical trends, weather conditions, and other factors. I primarily use Python and Jupyter notebooks for this work.
 
+### ***Coming Soon/ In-Progress***
+
+
 ---
 
 ## 🎓 Active Certifications

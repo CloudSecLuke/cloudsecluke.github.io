@@ -71,6 +71,8 @@ In addition, I'm also the founder of CodeBridge Cincinnati which is a 501(c)(3) 
 
 I’m open to new challenges, collaborations, and learning opportunities. Whether you’re interested in discussing cybersecurity solutions, collaborating on a project, or simply networking, don’t hesitate to reach out!
 
-Email: luke@cloudsecluke.com
-LinkedIn: http://www.linkedin.com/in/lfmill1
-GitHub: https://github.com/CloudSecLuke 
+- Email: luke@cloudsecluke.com
+
+- LinkedIn: http://www.linkedin.com/in/lfmill1
+
+- GitHub: https://github.com/CloudSecLuke 

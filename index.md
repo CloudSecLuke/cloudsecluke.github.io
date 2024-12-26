@@ -2,13 +2,12 @@
 layout: default
 title: Home
 ---
-# Welcome to My Personal Website
 
 ---
 
 ## 🌐 About Me
 
-As a Senior Security Engineer with over a decade of experience, I focus on threat response and cloud security across enterprise-level environments, including Fortune 50 and Fortune 200 companies, smaller cloud-focused enterprises, and .mil environments. I have a strong background in cyber incident response, security infrastructure development, detection engineering, and compliance and audit support. My experience spans a wide range of technologies, such as AWS, CrowdStrike, SentinelOne, SumoLogic, Splunk, and various Git repository services, all aimed at building and maintaining secure systems.
+As a seasoned Security Engineer with over a decade of experience, I focus on threat response and cloud security across enterprise-level environments, including Fortune 50 companies, smaller cloud-focused enterprises, and .mil environments. I have a strong background in cyber incident response, security infrastructure development, detection engineering, and compliance and audit support. My experience spans a wide range of technologies, such as AWS, CrowdStrike, SentinelOne, SumoLogic, Splunk, and various Git repository services, all aimed at building and maintaining secure systems.
 
 Throughout my career, I’ve developed a deep understanding of the cybersecurity landscape, especially within regulated environments like PCI, HIPAA, and FedRAMP. My mission is to empower businesses and individuals by sharing insights into modern security practices and demonstrating my expertise across multiple domains.
 

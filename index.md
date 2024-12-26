@@ -32,7 +32,7 @@ Developed statistical models to provide predictive analytics for betting odds ba
 
 ## ***Coming Soon/ In-Progress***
 
-### **Deployment of DetectionLab on Proxmox server**
+### **Deployment of DetectionLab to Proxmox server**
 The intent here will be to create and deploy a detection lab to Proxmox using Ansible, Packer and Terraform. Once the VMs are provisioned, tools such as Atomic Red Team and RedHuntOS will be used to generate telemetry on the endpoints for detection authoring. Zeek, Snort, Splunk, osquery, and Sigma will be used to analyze traffic and events to create high-fidelity detections. 
 
 Inspired by: https://www.detectionlab.network/introduction/ (no longer maintained)
@@ -72,3 +72,5 @@ In addition, I'm also the founder of CodeBridge Cincinnati which is a 501(c)(3) 
 I’m open to new challenges, collaborations, and learning opportunities. Whether you’re interested in discussing cybersecurity solutions, collaborating on a project, or simply networking, don’t hesitate to reach out!
 
 Email: luke@cloudsecluke.com
+LinkedIn: http://www.linkedin.com/in/lfmill1
+GitHub: https://github.com/CloudSecLuke 

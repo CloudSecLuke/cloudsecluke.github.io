@@ -31,7 +31,13 @@ I deployed OpenCTI via Docker on AWS using Terraform. This project showcases my 
 ### **Sports Analytics Modeling**
 Developed statistical models to provide predictive analytics for betting odds based on historical trends, weather conditions, and other factors. I primarily use Python and Jupyter notebooks for this work.
 
-### ***Coming Soon/ In-Progress***
+## ***Coming Soon/ In-Progress***
+
+### **Deployment of DetectionLab on Proxmox server**
+The intent here will be to create and deploy a detection lab to Proxmox using Ansible, Packer and Terraform. Once the VMs are provisioned, tools such as Atomic Red Team and RedHuntOS will be used to generate telemetry on the endpoints for detection authoring. Zeek, Snort, Splunk, osquery, and Sigma will be used to analyze traffic and events to create high-fidelity detections. 
+
+Inspired by: https://www.detectionlab.network/introduction/ (no longer maintained)
+
 
 
 ---
@@ -57,6 +63,8 @@ I am committed to giving back to the community and have had the privilege of vol
 - Collaborated with fellow cybersecurity professionals to enhance the digital security posture of Ohio’s critical infrastructure and local organizations.
 
 This volunteer experience has allowed me to refine my skills, contribute to a meaningful cause, and actively protect the community from emerging cyber threats.
+
+In addition, I'm also the founder of CodeBridge Cincinnati which is a 501(c)(3) Non-Profit organization whose mission is to provide technological (coding courses, Chromebooks, computer lab materials, etc.) resources to underprivileged schools and individuals.
 
 ---
 

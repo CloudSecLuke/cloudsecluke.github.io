@@ -64,7 +64,7 @@ I am committed to giving back to the community and have had the privilege of vol
 
 This volunteer experience has allowed me to refine my skills, contribute to a meaningful cause, and actively protect the community from emerging cyber threats.
 
-In addition, I'm also the founder of CodeBridge Cincinnati which is a 501(c)(3) Non-Profit organization whose mission is to provide technological (coding courses, Chromebooks, computer lab materials, etc.) resources to underprivileged schools and individuals.
+In addition, I'm also the founder of CodeBridge Cincinnati which is a 501(c)(3) Non-Profit organization whose mission is to provide technological resources (coding courses, Chromebooks, computer lab materials, etc.) to underprivileged schools and individuals.
 
 ---
 

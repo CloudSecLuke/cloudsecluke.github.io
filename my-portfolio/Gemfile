@@ -31,3 +31,14 @@ gem "wdm", "~> 0.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # Lock `http_parser.rb` gem to `v0.6.x` on JRuby builds since newer versions of the gem
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
+
+gem "webrick" # Required for Ruby 3.x
+gem "csv" # Add this to silence the CSV warning
+gem "ostruct" # Add this to silence the Ostruct warning
+gem "base64" # Add this to silence the Base64 warning
+gem "minimal-mistakes-jekyll"
+gem 'jekyll-seo-tag'
+gem 'jekyll-sitemap'
+
+
+

@@ -23,16 +23,41 @@ description: "A professional portfolio and blog by Luke Miller."
 baseurl: "" # Leave empty for GitHub Pages
 url: "https://cloudsecluke.github.io"
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 header_pages:
   - index.md
   - projects.md
   - blog.md
+  - certifications.md
   - presentations.md
+  - consulting.md
   - contact.md
+
+author:
+  name: "Luke Miller"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/cloudsecluke"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/lfmill1"
+    - label: "X"
+      icon: "fab fa-X"
+      url: "https://x.com/CloudSecLuke"
+
+# Social sharing metadata
+social:
+  twitter: "https://x.com/CloudSecLuke"
+  github: "https://github.com/cloudsecluke"
+  linkedin: "https://linkedin.com/in/lfmill1"
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

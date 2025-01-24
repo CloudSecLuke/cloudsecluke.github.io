@@ -1,11 +1,10 @@
 ---
-layout: single
-title: "My First Blog Post"
-excerpt: "An introduction to my journey in cybersecurity."
-categories: [Security]
-tags: [AWS, Threat Detection]
+layout: post
+title: "Critical Advisory: FortiGate SSL VPN Breach"
+excerpt: "Urgent advisory on the FortiGate SSL VPN breach: Learn how to protect your organization."
+categories: [Advisory, Blog]
+tags: [FortiGate, Security]
 header:
-  image: /assets/images/blog1.jpg
+  image: /assets/images/fortigate-vpn-breach.jpg
 ---
-
-This is the full content of the blog post.
+Your blog content here.

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Presentations and Publications"
+permalink: /presentations/
 ---
 
 <div class="content">

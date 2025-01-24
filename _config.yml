@@ -23,11 +23,12 @@ description: "A professional portfolio and blog by Luke Miller."
 baseurl: "" # Leave empty for GitHub Pages
 url: "https://cloudsecluke.github.io"
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes@4.24.0
 plugins:
-  - jekyll-feed
-  - jekyll-sitemap
+  - jekyll-remote-theme
   - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
 
 header_pages:
   - index.md

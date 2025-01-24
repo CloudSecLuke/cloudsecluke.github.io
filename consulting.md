@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Consulting Services"
+permalink: /consulting/
 ---
 
 <div class="content">

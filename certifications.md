@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Certifications"
+permalink: /certifications/
 ---
 
 <div class="certifications-page">

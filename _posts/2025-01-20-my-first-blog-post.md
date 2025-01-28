@@ -1,12 +1,15 @@
 ---
 layout: post
-title: "2024: The Year of Identity Attacks and What It Means for the Future"
-excerpt: "In 2024, identity attacks reached a tipping point, becoming not just the most common, but also the most impactful form of cyberattacks."
-categories: [Advisory, Blog]
-tags: [Identity, Security, Push Security]
+title: "Why Identity Is the New Perimeter"
+date: 2024-01-25
+categories: [Cybersecurity, SaaS]
+tags: [identity, MFA, security]
+excerpt: "Learn why identity is now the focal point of cybersecurity and how attackers are exploiting it."
 header:
   image: /assets/images/identity.png
+  teaser: /assets/images/identityteaser.png
 ---
+
 
 # Why Identity Is the New Perimeter
 

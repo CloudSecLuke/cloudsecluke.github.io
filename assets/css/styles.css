@@ -241,6 +241,41 @@ body {
     background: #005bb5;
 }
 
+.blog-index {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.blog-index ul {
+    list-style: none;
+    padding: 0;
+}
+
+.blog-index li {
+    margin-bottom: 30px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 20px;
+}
+
+.blog-index img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.blog-index h2 {
+    font-size: 1.5em;
+    color: #333;
+}
+
+.blog-index p {
+    font-size: 1em;
+    color: #666;
+}
+
+
 /* Certifications Page */
 .certifications-page {
     max-width: 1200px;

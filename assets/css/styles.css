@@ -291,10 +291,11 @@ body {
 /* Grid Layout for Certifications */
 .certifications-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Flexible grid with a minimum width of 300px */
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* Ensures flexible layout */
     gap: 20px; /* Space between the cards */
     justify-content: center; /* Center content within the grid */
 }
+
 
 /* Individual Certification Card */
 .certification-card {

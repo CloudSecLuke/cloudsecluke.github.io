@@ -68,13 +68,15 @@ permalink: /certifications/
     <ul>
         <li>
             <a href="https://owasp.org/">
-                OWASP Member
+            <img src="/assets/images/owasp.png" alt="OWASP Member" class="certification-logo">
+            OWASP Member
             </a> - Supporting open-source security projects.
         </li>
 
           <li>
             <a href="https://www.credly.com/earner/earned/badge/76b43aec-2721-45fa-b461-eae1c9cd5df4">
-                GIAC Advisory Board
+            <img src="/assets/images/advboard.png" alt="GIAC Advisory Board" class="certification-logo">
+            GIAC Advisory Board
             </a>
         </li>
     </ul>

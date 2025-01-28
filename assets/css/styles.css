@@ -288,15 +288,15 @@ body {
     margin-bottom: 40px;
 }
 
-/* Grid Layout */
+/* Grid Layout for Certifications */
 .certifications-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Responsive grid: min 300px, max fill available space */
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Flexible grid with a minimum width of 300px */
     gap: 20px; /* Space between the cards */
-    justify-content: center; /* Center cards within the grid */
+    justify-content: center; /* Center content within the grid */
 }
 
-/* Certification Card */
+/* Individual Certification Card */
 .certification-card {
     display: flex;
     flex-direction: column;
@@ -315,7 +315,7 @@ body {
     box-shadow: 0 8px 15px rgba(0, 0, 0, 0.15);
 }
 
-/* Certification Logo */
+/* Certification Logo Styling */
 .certification-logo {
     width: 100px;
     height: 100px;

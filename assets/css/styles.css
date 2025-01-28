@@ -256,8 +256,9 @@ body {
 /* Grid Layout */
 .certifications-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Two columns on larger screens, adjust on smaller */
-    gap: 20px; /* Space between boxes */
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Responsive grid: min 300px, max fill available space */
+    gap: 20px; /* Space between the cards */
+    justify-content: center; /* Center cards within the grid */
 }
 
 /* Certification Card */
@@ -270,8 +271,8 @@ body {
     border: 1px solid #ddd;
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    text-align: center;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
+    text-align: center;
 }
 
 .certification-card:hover {
@@ -318,7 +319,6 @@ body {
 .certification-card ul li a:hover {
     text-decoration: underline;
 }
-
 
 /* Responsive design */
 @media (max-width: 768px) {

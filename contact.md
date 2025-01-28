@@ -14,13 +14,8 @@ permalink: /contact/
         <li><strong>GitHub:</strong> <a href="https://github.com/cloudsecluke" target="_blank">https://github.com/cloudsecluke</a></li>
         <li><strong>X:</strong> <a href="https://x.com/CloudSecLuke" target="_blank">https://x.com/CloudSecLuke</a></li>
 
+        
     </ul>
-
-</div>
-
-<div class="contact-page">
-    <h1>Contact Me</h1>
-    <p>If you’d like to get in touch, please fill out the form below, and I’ll get back to you as soon as possible.</p>
 
 <form action="https://formspree.io/f/xzzdelgw" method="POST" class="contact-form">
         <label for="name">Name:</label>
@@ -34,4 +29,7 @@ permalink: /contact/
 
 <button type="submit">Send</button>
     </form>
+
+     </ul>
+     
 </div>

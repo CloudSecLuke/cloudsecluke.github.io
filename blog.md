@@ -8,21 +8,6 @@ permalink: /blog/
     <p>Weekly blog articles covering cybersecurity topics, projects, and tutorials.</p>
 </div>
 
-<div class="blog-index">
-  <h1>Latest Blog Posts</h1>
-  <ul>
-    {% for post in site.posts %}
-      <li>
-        <a href="{{ post.url | relative_url }}">
-          <img src="{{ post.header.teaser | relative_url }}" alt="{{ post.title }}">
-          <h2>{{ post.title }}</h2>
-          <p>{{ post.excerpt }}</p>
-        </a>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
-
 <div class="blog-content">
     <div class="blog-posts">
         {% for post in site.posts %}

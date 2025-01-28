@@ -12,6 +12,8 @@ permalink: /contact/
         <li><strong>Email:</strong> <a href="mailto:luke@cloudsecluke.com">luke@cloudsecluke.com</a></li>
         <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/lfmill1" target="_blank">https://linkedin.com/in/lfmill1</a></li>
         <li><strong>GitHub:</strong> <a href="https://github.com/cloudsecluke" target="_blank">https://github.com/cloudsecluke</a></li>
+        <li><strong>X:</strong> <a href="https://x.com/CloudSecLuke" target="_blank">https://x.com/CloudSecLuke</a></li>
+
     </ul>
 
 </div>

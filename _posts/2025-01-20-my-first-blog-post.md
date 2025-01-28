@@ -5,7 +5,7 @@ excerpt: "In 2024, identity attacks reached a tipping point, becoming not just t
 categories: [Advisory, Blog]
 tags: [Identity, Security, Push Security]
 header:
-  image: /assets/images/identity.jpg
+  image: /assets/images/identity.png
 ---
 
 ##Why Identity Is the New Perimeter

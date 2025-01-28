@@ -7,7 +7,6 @@ tags: [identity, MFA, security]
 excerpt: "Learn why identity is now the focal point of cybersecurity and how attackers are exploiting it."
 header:
   image: /assets/images/identity.png
-  teaser: /assets/images/identityteaser.png
 ---
 
 

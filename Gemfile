@@ -36,7 +36,7 @@ gem "webrick" # Required for Ruby 3.x
 gem "csv" # Add this to silence the CSV warning
 gem "ostruct" # Add this to silence the Ostruct warning
 gem "base64" # Add this to silence the Base64 warning
-gem "minimal-mistakes-jekyll"
+gem "minimal-mistakes-jekyll", ">= 4.27.0"
 gem 'jekyll-seo-tag'
 gem 'jekyll-sitemap'
 
